@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Paracetamol",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut laoreet ante. Maecenas ac erat vitae risus egestas lobortis quis nec lorem. Proin ut augue purus. Sed vehicula dui metus, vitae consequat justo varius a. Pellentesque porta euismod velit in varius. Maecenas ac leo a ante convallis aliquet. Fusce aliquam mattis turpis. Praesent nec elit id diam convallis auctor in vitae metus. Donec malesuada, eros in cursus dignissim, urna neque dapibus mauris, eleifend efficitur odio leo eu eros. Ut ultrices congue turpis vitae mollis.",
+    "precio": 2.01
+  },
+  {
+    "id": 2,
+    "nombre": "Ñame Salvaje",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut laoreet ante. Maecenas ac erat vitae risus egestas lobortis quis nec lorem. Proin ut augue purus. Sed vehicula dui metus, vitae consequat justo varius a. Pellentesque porta euismod velit in varius. Maecenas ac leo a ante convallis aliquet. Fusce aliquam mattis turpis. Praesent nec elit id diam convallis auctor in vitae metus. Donec malesuada, eros in cursus dignissim, urna neque dapibus mauris, eleifend efficitur odio leo eu eros. Ut ultrices congue turpis vitae mollis.",
+    "precio": 0.03
+  }
+]
